@@ -137,3 +137,4 @@ molpayxdk/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
 .gradle/checksums/sha1-checksums.bin
 .idea/compiler.xml
 .idea/gradle.xml
+.gradle/config.properties
